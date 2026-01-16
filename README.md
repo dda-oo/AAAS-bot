@@ -1,6 +1,6 @@
-# 📦 cw-bot
+# 📦 AAAS-bot
 
-**cw-bot** is a simple, modular chatbot designed to streamline and automate CEWE-related workflows.
+**AAAS-bot** is a simple, modular chatbot designed to streamline and automate related workflows.
 
 ## ✨ Features
 
@@ -11,7 +11,7 @@
 
 ## ⚙️ Purpose
 
-Built with maintainability and flexibility in mind, **cw-bot** serves as a foundation for:
+Built with maintainability and flexibility in mind, **AAAS-bot** serves as a foundation for:
 
 - Internal automation
 - Experimentation
